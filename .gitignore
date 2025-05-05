@@ -4,5 +4,5 @@
 .hie/
 .direnv/
 .DS_Store
-result
+result*
 dist-newstyle/
